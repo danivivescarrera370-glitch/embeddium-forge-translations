@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "description": {
+            "translate": "embeddium.resource_pack.unofficial",
+            "fallback": "Unofficial translations for Embeddium"
+        },
+        "pack_format": 15,
+        "min_format": 15,
+        "max_format": 97,
+        "supported_formats": [15, 64]
+    }
+}

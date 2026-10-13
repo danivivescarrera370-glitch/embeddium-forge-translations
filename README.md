@@ -1,19 +1,19 @@
-# Unofficial Sodium Translations
+# Unofficial Embeddium Translations
 
-<img align="right" src="Sodium Translations/pack.png" alt="Unofficial Sodium Translations" title="Unofficial Sodium Translations" height="72" />
+<img align="right" src="Embeddium Translations/pack.png" alt="Unofficial Embeddium Translations" title="Unofficial Embeddium Translations" height="72" />
 
-This repository hosts unofficial translations for [**Sodium**](https://github.com/CaffeineMC/sodium-fabric), a Minecraft mod designed to improve frame rates and reduce micro-stutter. Please see [the FAQ](#FAQ) for **F**requently **A**sked **Q**uestions and supplimentary information about the project.
+This repository hosts unofficial translations for [**Embeddium**](https://github.com/embeddedt/Embeddium), a Minecraft mod designed to improve frame rates and reduce micro-stutter. Please see [the FAQ](#FAQ) for **F**requently **A**sked **Q**uestions and supplimentary information about the project.
 
 ## Installation
 
-All translations in this repository are available as a resource pack, which you can install like any other resource pack. Simply grab the latest release and put it into your resource pack folder. 
+All translations in this repository are available as a resource pack, which you can install like any other resource pack. Simply grab the latest release and put it into your resource pack folder.
 
-**Download: [Modrinth](https://modrinth.com/resourcepack/translations-for-sodium/versions) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium/files) | [GitHub](https://github.com/Madis0/sodium-fabric-translations/releases/latest/download/SodiumTranslations.zip)**
+**Download: [Modrinth](https://modrinth.com/resourcepack/translations-for-embeddium/versions) | [CurseForge](https://www.curseforge.com/minecraft/texture-packs/translations-for-embeddium/files) | [GitHub](https://github.com/Madis0/embeddium-translations/releases/latest/download/EmbeddiumTranslations.zip)**
 
 ### Keeping up to date
 
-- [CurseForge App](https://www.curseforge.com/download/app), [Modrinth App](https://modrinth.com/app) and [Prism Launcher](https://prismlauncher.org/) can directly install and update Sodium and this pack
-- [Modpacks that include this pack](https://legacy.curseforge.com/minecraft/texture-packs/translations-for-sodium/relations/dependents?filter-related-dependents=6) can manage the updating for you, as long as you keep the modpack itself up to date
+- [CurseForge App](https://www.curseforge.com/download/app), [Modrinth App](https://modrinth.com/app) and [Prism Launcher](https://prismlauncher.org/) can directly install and update Embeddium and this pack
+- [Modpacks that include this pack](https://legacy.curseforge.com/minecraft/texture-packs/translations-for-embeddium/relations/dependents?filter-related-dependents=6) can manage the updating for you, as long as you keep the modpack itself up to date
 
 ## Translating
 

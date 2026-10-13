@@ -1,0 +1,14 @@
+{
+  "embeddium.option_impact.low": "Lav",
+  "embeddium.option_impact.medium": "Medium",
+  "embeddium.option_impact.high": "Høy",
+  "embeddium.option_impact.extreme": "Ekstremt",
+  "embeddium.option_impact.varies": "Varierer",
+  "embeddium.options.pages.quality": "Kvalitet",
+  "embeddium.options.pages.performance": "Prestasjon",
+  "embeddium.options.pages.advanced": "Avansert",
+  "embeddium.options.view_distance.tooltip": "Skildringsviddenkontrollereren bestemmer hvor langt landskapet vil bli gjengitt. Kortere skildringsvidde betyr at mindre av landskapt vil bli gjengitt, som forbedrer bildefrekvensene.",
+  "embeddium.options.simulation_distance.tooltip": "Simuleringsavstanden kontrollerer hvor langt unna terreng og enheter som skal lastes og tikket. Kortere avstander kan redusere den interne serverens belastning og kan forbedre bildefrekvensene.",
+  "embeddium.options.brightness.tooltip": "Endrer minimum lystyrke i verdenen. Når du tar den opp, vil mørkere områder i verdenen vises lysere. Den endrer ikke allerede godt opplyste plasser.",
+  "embeddium.options.particle_quality.name": "Partikler"
+}

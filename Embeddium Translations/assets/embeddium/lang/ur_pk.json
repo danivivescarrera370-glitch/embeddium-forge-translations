@@ -1,0 +1,11 @@
+{
+  "modmenu.summaryTranslation.embeddium": "مائن کرافٹ کے لیے سب سے تیز اور سب سے زیادہ مطابقت پذیر رینڈرنگ آپٹیمائزیشن موڈ.",
+  "modmenu.descriptionTranslation.embeddium": "سوڈیم مائن کرافٹ کے لیے ایک طاقتور رینڈرنگ انجن ہے جو فریم ریٹ اور مائیکرو سٹٹر کو بہت بہتر بناتا ہے، جبکہ بہت سے گرافیکی مسائل کو حل کرتا ہے۔.",
+  "embeddium.resource_pack.unofficial": "§7سوڈیم کے غیر سرکاری تراجم§r",
+  "embeddium.option_impact.low": "کم",
+  "embeddium.option_impact.medium": "درمیانہ",
+  "embeddium.option_impact.high": "زیادہ",
+  "embeddium.option_impact.extreme": "انتہائی",
+  "embeddium.option_impact.varies": "مختلف",
+  "embeddium.options.particle_quality.name": "ذرات"
+}
