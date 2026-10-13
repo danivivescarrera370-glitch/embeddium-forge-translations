@@ -1,7 +1,7 @@
 {
   "modmenu.summaryTranslation.embeddium": "The fastest and most compatible rendering optimization mod for Minecraft.",
   "modmenu.descriptionTranslation.embeddium": "Embeddium is a powerful rendering engine for Minecraft which greatly improves frame rates and micro-stutter, while fixing many graphical issues.",
-  "embeddium.resource_pack.unofficial": "§7Unofficial translations for Sodium§r",
+  "embeddium.resource_pack.unofficial": "§7Unofficial translations for Embeddium§r",
 
   "embeddium.option_impact.low": "Low",
   "embeddium.option_impact.medium": "Medium",
