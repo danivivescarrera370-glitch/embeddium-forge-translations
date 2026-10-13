@@ -1,4 +1,4 @@
-# Unofficial Embeddium Translations
+# Unofficial Embeddium Translations(Forked from Sodium)
 
 <img align="right" src="Embeddium Translations/pack.png" alt="Unofficial Embeddium Translations" title="Unofficial Embeddium Translations" height="72" />
 
